@@ -1,0 +1,23 @@
+_repo: The-Age-of-Fable_4925
+creator:
+  author:
+    agent_name: Bulfinch, Thomas
+    birthdate: 1796
+    deathdate: 1867
+    gutenberg_agent_id: '1179'
+    url: http://www.gutenberg.org/2009/agents/1179
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Bulfinch
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology'
+- !lcc 'BL'
+title: The Age of Fable
+url: http://www.gutenberg.org/ebooks/4925
