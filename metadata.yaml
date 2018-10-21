@@ -1,5 +1,5 @@
 _repo: The-Age-of-Fable_4925
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Mythology'
 - !lcc 'BL'
+- GITenberg
 title: The Age of Fable
 url: http://www.gutenberg.org/ebooks/4925
